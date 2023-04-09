@@ -448,6 +448,7 @@ body {
   /* justify-content: center; */
 }
 .socials {
+  margin-top: 8px;
   display: flex;
   gap: 24px;
   align-items: center;
@@ -588,7 +589,7 @@ body {
   align-items: center;
   gap: 16px;
 }
-
+/*  
 .booking {
   margin-left: 80px;
 }
@@ -645,6 +646,8 @@ body {
   margin-left: 16px;
   fill: var(--modal-box);
 }
+
+*/
 
 /* modal */
 
@@ -718,7 +721,7 @@ body {
   fill: var(--contrast-text-color);
 }
 
-.modal-title {
+/* .modal-title {
   display: block;
   margin-bottom: 14px;
   text-align: center;
@@ -804,7 +807,7 @@ body {
   color: rgba(117, 117, 117, 0.5);
 }
 
-/* /=================== new=========== */
+
 .form-checkbox {
   display: flex;
   align-items: baseline;
@@ -857,4 +860,4 @@ body {
   letter-spacing: 0.04em;
   color: var(--accent-color);
   text-decoration: underline;
-}
+} */
